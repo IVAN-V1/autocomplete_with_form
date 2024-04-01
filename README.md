@@ -1,16 +1,13 @@
-# autocomplete
 
-A new Flutter project.
+# TIPOS DE ENCRIPTACION
+| Imagen 1 | Imagen 2 |
+| -------- | -------- |
+| ![Ejemplo de imagen](./capturas_/captura1.jpg) | ![Ejemplo de imagen](./capturas_/captura2.jpg)
 
-## Getting Started
+# Encriptacion:
+# UTF-8
+# MD5
+# Cifrado cesar
+# Sustitucion simple
+# SHA 256
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
